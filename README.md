@@ -1,7 +1,7 @@
 <h1>Email Slicer</h1>
 
 <h2>Description</h2>
-This Python project demonstrates 
+This Python project demonstrates how to slice strings. 
 
 <h2>Language and Utilities Used</h2>
 
