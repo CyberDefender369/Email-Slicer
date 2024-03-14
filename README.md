@@ -1,7 +1,7 @@
 <h1>Email Slicer</h1>
 
 <h2>Description</h2>
-This Python project demonstrates how to slice out a username and domain from an email address. 
+This Python project showcases the process of extracting a username and domain from an email address. We achieve this by utilizing the input method for user input, string slicing techniques, and f-string formatting to present the results elegantly.
 
 <h2>Language and Utilities Used</h2>
 
@@ -11,8 +11,6 @@ This Python project demonstrates how to slice out a username and domain from an 
 <h2>Environments Used </h2>
 
 - Windows 11
-
-<h2>Notes</h2>
 
 
 <h2>Project Walk-Through:</h2>
