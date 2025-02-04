@@ -22,3 +22,7 @@ The strip() method removes leading or trailing whitespace. The lower() method no
 - Results are displayed.
   
 ![screenshot_1](https://github.com/user-attachments/assets/294de4c1-fa42-4b41-be87-adeb4d347feb)
+
+- Ensure lower() and strip() method work properly.
+
+![screenshot_2](https://github.com/user-attachments/assets/2297ed6f-e2ac-4028-9103-38330d5e2bf2)
