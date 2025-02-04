@@ -17,12 +17,15 @@ The strip() method removes leading or trailing whitespace. The lower() method no
 
 
 ## Project Walk-Through
-- Ask user to enter email address.
-- Username and domain are processed.
-- Results are displayed.
+
+### Scenario 1
+- Request the user to provide their email address.
+- Process the username and domain.
+- Display the results.
   
 ![screenshot_1](https://github.com/user-attachments/assets/294de4c1-fa42-4b41-be87-adeb4d347feb)
 
+### Scenario 2
 - Ensure lower() and strip() method work properly.
 
 ![screenshot_2](https://github.com/user-attachments/assets/2297ed6f-e2ac-4028-9103-38330d5e2bf2)
